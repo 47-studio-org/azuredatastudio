@@ -109,7 +109,7 @@
     "gulp-typescript": "^3.2.4",
     "tslint": "^3.14.0",
     "typescript": "^2.6.1",
-    "url-parse": "^1.4.4",
+    "url-parse": "^1.5.9",
     "vsce": "^1.57.1",
     "vscode": "^1.1.30"
   },
